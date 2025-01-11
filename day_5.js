@@ -1,3 +1,9 @@
+// It's Day 5 of my #365DaysOfCoding challenge! 
+// Today, I did a quick JavaScript revision and practiced 
+// for-in loops.  I also created a small program to apply what 
+// I learned! 
+
+
 //! = date
 // ** what i learn 
 
