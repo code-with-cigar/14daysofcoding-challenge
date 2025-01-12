@@ -4,8 +4,7 @@
 // I learned! 
 
 
-//! = date
-// ** what i learn 
+
 
 
 const prompt = require("prompt-sync")();
@@ -19,10 +18,6 @@ for (let i = 0; i < format; i++) {
 }
 console.log(sum);
 
-
-// !today 11-1-25 
-// ** i learn for in loops in morning
-// i learn for in loops 
 
 
 letgranny = {
